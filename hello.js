@@ -1,1 +1,7 @@
-console.log("hello world from js")
+class Simple
+{
+public static void main(String args[])
+{
+System.out.println("Hello from node js");
+}
+}
